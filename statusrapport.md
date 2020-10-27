@@ -9,3 +9,5 @@ Eskil hadde i år en sommerjobb hos firmaet Huddly, og vi fikset oss derfor et m
 Etter å ha fått litt ekstra input om de mulige prosjektene lener vi per nå mot det som har med gjenkjenning av gesturer (altså f.eks. å gjenkjenne opprekking av hånd gjennom maskinlæring). Dette blir nok bestemt ganske snart, og vi satser da på å få en tydeligere beskrivelse av prosjektet.
 
 Angående størrelsen på gruppen er vi per nå kun to stykker. Vi er åpne for å være flere, men det konkrete prosjektet vårt vil omhandle maskinlæring. For å kunne bidra til dette mener vi det er nødvendig å ha noe bakgrunn i matematikk og statistikk. Noe bakgrunn i maskinlæring er også veldig greit å ha, og begge oss gruppemedlemmer tar i dette semesteret fag relatert til dette (Intro til kunstig intelligens og anvendt kunstig intelligens & data science prosjekt). Det er derfor mest interessant å samarbeide med andre dataingeniørstudenter med interesse / litt bakgrunn i AI-feltet. Foreløpig er vi derfor fornøyd med gruppestørrelsen.
+
+<img src='prosjektforslag'/>
