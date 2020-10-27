@@ -1,6 +1,5 @@
 ## Statusrapport gruppe 15
 **Eskil Gaare Høstad, s331380**
-
 **Jonathan Kjølstad, s321399**
 
 Vi bestemte oss for å forme en gruppe sammen i midten av september, da vi begge har interesser i bl.a. maskinlæring og bildeprosessering. 
