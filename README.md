@@ -1,6 +1,8 @@
-# bachelorprosjekt
-**TODO**
+# Hovedprosjekt i data/informasjonsteknologi ved OsloMet
+## Gesture recognition for video meetings
 
+
+**TODO:**
 - [x] Levere statusrapport (24. Oktober)
 - [ ] Utfylle og levere prosjektskisse (24. November)
 - [ ] Prøve å få lånt compute server på univsersitetet
