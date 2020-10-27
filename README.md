@@ -4,7 +4,7 @@
 - **Eskil Gaare Høstad, s331380**
 - **Jonathan Kjølstad, s321399**
 
-**TODO**
+### TODO
 - [x] Levere statusrapport (24. Oktober)
 - [ ] Utfylle og levere prosjektskisse (24. November)
 - [ ] Prøve å få lånt compute server på univsersitetet
