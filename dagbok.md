@@ -11,7 +11,7 @@ Vi gjennomførte et møtet med Huddly, hvor vi kort ble litt kjent og de framla 
 
 
 **20. Oktober**
-Vi møttes for å diskutere litt og ble i all hovedsak ening om den beste kandidaten av de tre forslagene. Her skrev vi også og leverte inn statusrapporten.
+Vi møttes for å diskutere litt og ble i all hovedsak enige at den beste kandidaten av de tre forslagene var gestur gjenkjenning. Her skrev vi også og leverte inn statusrapporten.
 
 
 **27. Oktober**
