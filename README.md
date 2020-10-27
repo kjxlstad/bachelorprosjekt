@@ -4,7 +4,7 @@
 - **Eskil Gaare Høstad, s331380**
 - **Jonathan Kjølstad, s321399**
 
-**TODO:**
+**TODO**
 - [x] Levere statusrapport (24. Oktober)
 - [ ] Utfylle og levere prosjektskisse (24. November)
 - [ ] Prøve å få lånt compute server på univsersitetet
@@ -14,8 +14,5 @@
 
 
 ### Relevante linker
-<p>
   <a href="http://student.cs.hioa.no/hovedprosjekter/2021/data/15">Gruppeside på cs.hioa</a>
-  
   <a href="http://cs.hioa.no/data/bachelorprosjekt">Hovedkatalog over prosjekter</a>
-</p>
