@@ -1,5 +1,5 @@
 # Gesture recognition for video meetings
-## Hovedprosjekt i data/informasjonsteknologi ved OsloMet
+### Hovedprosjekt i data/informasjonsteknologi ved OsloMet
 ### Gruppe 15
 - **Eskil Gaare Høstad, s331380**
 - **Jonathan Kjølstad, s321399**
