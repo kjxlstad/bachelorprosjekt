@@ -13,3 +13,4 @@
 - [ ] Presentasjon (7-11. Juni tentativ)
 
 http://student.cs.hioa.no/hovedprosjekter/2021/data/15
+http://cs.hioa.no/data/bachelorprosjekt
