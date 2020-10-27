@@ -14,5 +14,7 @@
 
 
 ### Relevante linker
+<p>
 <a href="http://student.cs.hioa.no/hovedprosjekter/2021/data/15">Gruppeside på cs.hioa</a>
 <a href="http://cs.hioa.no/data/bachelorprosjekt">Hovedkatalog over prosjekter</a>
+</p>
