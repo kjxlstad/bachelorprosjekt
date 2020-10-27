@@ -10,4 +10,6 @@ Etter å ha fått litt ekstra input om de mulige prosjektene lener vi per nå mo
 
 Angående størrelsen på gruppen er vi per nå kun to stykker. Vi er åpne for å være flere, men det konkrete prosjektet vårt vil omhandle maskinlæring. For å kunne bidra til dette mener vi det er nødvendig å ha noe bakgrunn i matematikk og statistikk. Noe bakgrunn i maskinlæring er også veldig greit å ha, og begge oss gruppemedlemmer tar i dette semesteret fag relatert til dette (Intro til kunstig intelligens og anvendt kunstig intelligens & data science prosjekt). Det er derfor mest interessant å samarbeide med andre dataingeniørstudenter med interesse / litt bakgrunn i AI-feltet. Foreløpig er vi derfor fornøyd med gruppestørrelsen.
 
+
+### Vedlagt tre prosjektforslag fra Huddly
 <img src="prosjektforslag.png"/>
