@@ -1,5 +1,4 @@
 **13. September**
-
 Vi ble enige om å arbeide sammen på hovedprosjektet.
 
 
