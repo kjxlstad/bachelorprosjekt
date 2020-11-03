@@ -1,8 +1,6 @@
 # Prosjektskisse
 
-### Gesture recognition during video meetings
 #### Hovedprosjekt i data/informasjonsteknologi v/ Oslomet
-
 #### Oppdragsgiver
 Huddly AS\
 Karenslyst Allé 51, 0279 Oslo\
@@ -25,3 +23,15 @@ eskilgh@gmail.com\
 Jonathan Colbjørnsen Kjølstad\
 jonathan.kjolstad@gmail.com
 
+### Gesture recognition during video meetings
+
+Classify gestures to use in communication with other participants and camera functions. Design
+clear and easy gestures to use and detect.
+Examples:
+- Raise hand (voting in polls, speaking queue, signify demand for attention etc.)
+- Thumb up/down (like/dislike etc.)
+- Mute microphone
+- Volume adjustment
+
+###About the client
+Huddly combines hardware, software and AI to create intelligent vision products for everyone who uses video to collaborate. 
