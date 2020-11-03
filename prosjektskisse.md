@@ -21,6 +21,8 @@ s331380
 eskilgh@gmail.com\
 \
 Jonathan Colbjørnsen Kjølstad\
+s321399
+91625227\
 jonathan.kjolstad@gmail.com
 
 ### Gesture recognition during video meetings
