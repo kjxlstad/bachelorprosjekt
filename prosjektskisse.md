@@ -33,5 +33,5 @@ Examples:
 - Mute microphone
 - Volume adjustment
 
-###About the client
+### About the client
 Huddly combines hardware, software and AI to create intelligent vision products for everyone who uses video to collaborate. 
