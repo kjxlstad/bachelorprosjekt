@@ -7,7 +7,7 @@
 
 ### TODO
 - [x] Levere statusrapport (24. Oktober)
-- [ ] Utfylle og levere prosjektskisse (14. November)
+- [x] Utfylle og levere prosjektskisse (14. November)
 - [ ] Prøve å få lånt compute server på univsersitetet
 - [ ] Forprosjekt (23. Januar)
 - [ ] Prosjektrapport (25. Mai)
