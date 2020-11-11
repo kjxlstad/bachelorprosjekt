@@ -16,3 +16,6 @@ Vi møttes for å diskutere litt og ble i all hovedsak enige at den beste kandid
 
 **27. Oktober**
 Vi gjennomførte enda et møte med Huddly, hvor de la fram en beskrivelse av prosjektet vi valgte - gestur gjenkjenning. Vi snakket også kort om tekniske krav til feks. programmeringsspråk og eventuelle verktøy vi må ta i bruk.
+
+**10. November**
+Vi mottok ytterlig infromasjon samt en del tekniske krav til prosjektet, dette ble ført inn i prosjektskissen og levert inn.
