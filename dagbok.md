@@ -19,3 +19,9 @@ Vi gjennomførte enda et møte med Huddly, hvor de la fram en beskrivelse av pro
 
 **10. November**
 Vi mottok ytterlig infromasjon samt en del tekniske krav til prosjektet, dette ble ført inn i prosjektskissen og levert inn.
+
+**6. Januar**
+Vi kontaktet interne og eksterne veiledere for å få til videomøter. Videre utforsket vi open-source-løsninger på lignende problem, samt potensielle platformer til utvikling og maskinlæring.
+
+**7. Januar**
+Videomøte med intern veileder Jianhua Zhang.
