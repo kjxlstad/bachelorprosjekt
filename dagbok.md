@@ -24,4 +24,4 @@ Vi mottok ytterlig infromasjon samt en del tekniske krav til prosjektet, dette b
 Vi kontaktet interne og eksterne veiledere for å få til videomøter. Videre utforsket vi open-source-løsninger på lignende problem, samt potensielle platformer til utvikling og maskinlæring.
 
 **7. Januar**
-Videomøte med intern veileder Jianhua Zhang.
+Videomøte med intern veileder Jianhua Zhang. Vi gikk gjennom hva som forventes av en bacheloroppgave og generelle tips til problemet vi prøvde å løse. En mer presis problemstilling ble etterlyst for forrapporten.
