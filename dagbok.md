@@ -25,3 +25,6 @@ Vi kontaktet interne og eksterne veiledere for å få til videomøter. Videre ut
 
 **7. Januar**
 Videomøte med intern veileder Jianhua Zhang. Vi gikk gjennom hva som forventes av en bacheloroppgave og generelle tips til problemet vi prøvde å løse. En mer presis problemstilling ble etterlyst for forrapporten.
+
+**8. Januar**
+Inntil vi får satt et møte med Huddly bruker vi tid på å utforske allerede eksisterende løsninger. På dette punktet så mediapipe ut som et interessant alternativ.
