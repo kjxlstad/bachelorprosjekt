@@ -28,3 +28,6 @@ Videomøte med intern veileder Jianhua Zhang. Vi gikk gjennom hva som forventes 
 
 **8. Januar**
 Inntil vi får satt et møte med Huddly bruker vi tid på å utforske allerede eksisterende løsninger. På dette punktet så mediapipe ut som et interessant alternativ.
+
+**12. Januar**
+Hadde et møte med veiledere, både intern og eksterne. Vi diskuterte litt rundt rammene for prosjektet, samt så litt på det vi hadde fått til så langt ved bruk av googles mediapipe bibliotek. Et nytt møte ble planlagt der vi skulle gå gjennom mer i detalj workflow, tilgjengelige ressurser, og lignende.
