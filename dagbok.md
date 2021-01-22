@@ -31,3 +31,6 @@ Inntil vi får satt et møte med Huddly bruker vi tid på å utforske allerede e
 
 **12. Januar**
 Hadde et møte med veiledere, både intern og eksterne. Vi diskuterte litt rundt rammene for prosjektet, samt så litt på det vi hadde fått til så langt ved bruk av googles mediapipe bibliotek. Et nytt møte ble planlagt der vi skulle gå gjennom mer i detalj workflow, tilgjengelige ressurser, og lignende.
+
+**22. Januar**
+Denne uken hadde vi et møte med Huddly hvor vi sammen fikk planlagt rammene og målene for prosjektet i mer detalj. Det ble tydelig at vi hadde misforstått oppgaven litt og fokusert vel mye på bruken av maskinlæring i praksis. Det var tydelig at Huddly ønsket at vi i større grad skulle utvikle en modell på egenhånd, og dokumentere denne prosessen. Alt i alt var møtet givende og vi fikk finalisert alt vi trengte for forprosjektrapport og NDAer. Vi fikk også tips til hvordan vi skulle komme i gang med arbeidet: Første mål var å lage en maskinlæringsmodell som kunne detektere hender (object detection).
