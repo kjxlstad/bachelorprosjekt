@@ -34,3 +34,7 @@ Hadde et møte med veiledere, både intern og eksterne. Vi diskuterte litt rundt
 
 **22. Januar**
 Denne uken hadde vi et møte med Huddly hvor vi sammen fikk planlagt rammene og målene for prosjektet i mer detalj. Det ble tydelig at vi hadde misforstått oppgaven litt og fokusert vel mye på bruken av maskinlæring i praksis. Det var tydelig at Huddly ønsket at vi i større grad skulle utvikle en modell på egenhånd, og dokumentere denne prosessen. Alt i alt var møtet givende og vi fikk finalisert alt vi trengte for forprosjektrapport og NDAer. Vi fikk også tips til hvordan vi skulle komme i gang med arbeidet: Første mål var å lage en maskinlæringsmodell som kunne detektere hender (object detection).
+
+**28. Januar**
+
+Eskil: Har sett på Tensorflow sitt object detect API, og prøvd å få trent modeller derifra ved hjelp av google cloud services. Hoveddelen av arbeidet har gått på å sette seg inn i tensorflow APIet, config filer og andre ting man må passe på.
