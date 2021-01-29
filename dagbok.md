@@ -39,5 +39,6 @@ Denne uken hadde vi et møte med Huddly hvor vi sammen fikk planlagt rammene og 
 Analysert datasettet med hender for å prøve å utvikle en optimal strategi for å dele opp et bilde i mindre subbilder. Hvor vært subbilde enten inneholder eller ikke inneholder en hånd. Målet med dette er å sende hvert subbilde til en klassifiseringsmodell, for å oppnå en form for rudimentær lokalisering.
 
 **28. Januar**
-Eskil: Har sett på Tensorflow sitt object detect API, og prøvd å få trent modeller derifra ved hjelp av google cloud services. Hoveddelen av arbeidet har gått på å sette seg inn i tensorflow APIet, config filer og andre ting man må passe på. //
+Eskil: Har sett på Tensorflow sitt object detect API, og prøvd å få trent modeller derifra ved hjelp av google cloud services. Hoveddelen av arbeidet har gått på å sette seg inn i tensorflow APIet, config filer og andre ting man må passe på. 
+//
 Jonathan: Har satt opp en enkel binær klassifiserings modell i keras, som tar inn et bilde og returnerer en skalar som beskriver sannsynligheten for at bildene inneholder en hånd. Bearbeidet egohands datasettet å brukte dette til å trene modellen. Sett noe på å koble denne modellen sammen med metoden for inndeling av bilder.
