@@ -41,3 +41,6 @@ Analysert datasettet med hender for å prøve å utvikle en optimal strategi for
 **28. Januar**
 Eskil: Har sett på Tensorflow sitt object detect API, og prøvd å få trent modeller derifra ved hjelp av google cloud services. Hoveddelen av arbeidet har gått på å sette seg inn i tensorflow APIet, config filer og andre ting man må passe på. \
 Jonathan: Har satt opp en enkel binær klassifiserings modell i keras, som tar inn et bilde og returnerer en skalar som beskriver sannsynligheten for at bildene inneholder en hånd. Bearbeidet egohands datasettet å brukte dette til å trene modellen. Sett noe på å koble denne modellen sammen med metoden for inndeling av bilder.
+
+**5. Februar**
+Torsdag denne uken hadde vi et møte med alle veiledere. Der fikk vi en ny og mer detaljert kravspesifikasjon. Kontrært til tidligere beskjeder, var det nå et ønske  om at vi fokuserte hovedsakelig på demonstrasjonen. Vi ble enige om å forsøke å levere en minimal versjon av produktet så snart som mulig, og  å i denne  benytte ferdige maskinlæringsløsninger for gestur-gjenkjenning. Eventuelle egne modeller kan tenkes å eventuelt bli implementert senere. Dette innebærer at en stor del av arbeidet vi har gjort opop til nå med å bygge opp og trene modeller blir lagt på is foreløpig, men læringsutbyttet fra denne prosessen vil nok uansett være av verdi.
