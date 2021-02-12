@@ -47,3 +47,6 @@ Torsdag denne uken hadde vi et møte med alle veiledere. Der fikk vi en ny og me
 
 **8. Februar**
 Helgen og starten av uken var hovedsakelig dedikert til oppsettet av en generell struktur for mvpen etter kravspesifikasjonen. Her forsøkte vi å dele opp programmet logisk i mindre moduler, slik at hvert enkelt modul lett kan arbeides på og/eller byttes ut i ettertid. Vi startet med å implemetere mediapipe modellen og en simpel geometrisk gjenkjenning av gesturer som et modul i denne strukturen.
+
+**11. Februar**
+Et møte med veiledere ble holdt hvor fikk en liten introduksjon til å konfigurere huddlys kameraer og tilbakemeldinger på strukturen. Under dette møte fikk vi også en pekepinn for videre fremgang, hvor vi fikk fortalt at hovedfokus i ummidelbar framtig burde sentrere seg rundt å implementere en robust sjekk for om en gestur blir holdt og lage noe funksjonalitet som skal bli kontrollert av dette. Programmet ble også videreutviklet for å enkelt støtte både bilde- og videofiler i tillegg til webkamera.
