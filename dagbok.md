@@ -44,3 +44,6 @@ Jonathan: Har satt opp en enkel binær klassifiserings modell i keras, som tar i
 
 **5. Februar**
 Torsdag denne uken hadde vi et møte med alle veiledere. Der fikk vi en ny og mer detaljert kravspesifikasjon. Kontrært til tidligere beskjeder, var det nå et ønske  om at vi fokuserte hovedsakelig på demonstrasjonen. Vi ble enige om å forsøke å levere en minimal versjon av produktet så snart som mulig, og  å i denne  benytte ferdige maskinlæringsløsninger for gestur-gjenkjenning. Eventuelle egne modeller kan tenkes å eventuelt bli implementert senere. Dette innebærer at en stor del av arbeidet vi har gjort opop til nå med å bygge opp og trene modeller blir lagt på is foreløpig, men læringsutbyttet fra denne prosessen vil nok uansett være av verdi.
+
+**8. Februar**
+Helgen og starten av uken var hovedsakelig dedikert til oppsettet av en generell struktur for mvpen etter kravspesifikasjonen. Her forsøkte vi å dele opp programmet logisk i mindre moduler, slik at hvert enkelt modul lett kan arbeides på og/eller byttes ut i ettertid. Vi startet med å implemetere mediapipe modellen og en simpel geometrisk gjenkjenning av gesturer som et modul i denne strukturen.
