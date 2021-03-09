@@ -17,3 +17,23 @@
   <a href="https://www.student.cs.hioa.no/hovedprosjekter/2021/data/15/">Gruppens side på cs.hioa</a>
   
   <a href="https://www.cs.hioa.no/data/bachelorprosjekt//">Hovedkatalog over prosjekter</a>
+
+### Prosjektrapport
+
+#### Kravspesifikasjon
+- Utgangspunkt: Det vi fikk fra Huddly
+- Vise hvordan denne endret seg etter tid
+#### Prosessdokumentasjon
+- Metode
+- Hvordan vi kom fram til ulike metoder for å evaluere gestures
+- Forskjellige faser
+#### Produktdokumentasjon
+- Vanlig dokumentasjon
+- Diagrammer osv
+- Sluttevaluering av klassifikator
+#### Testdokumentasjon
+- 
+#### Brukerdokumentasjon
+- Hvordan bruke hvilke gestures og til hva osv.
+-
+Muntlig presentasjon av prosjekt
