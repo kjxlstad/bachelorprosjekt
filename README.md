@@ -36,4 +36,4 @@
 #### Brukerdokumentasjon
 - Hvordan bruke hvilke gestures og til hva osv.
 -
-Muntlig presentasjon av prosjekt
+#### Muntlig presentasjon av prosjekt
