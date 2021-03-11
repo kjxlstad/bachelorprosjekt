@@ -27,6 +27,7 @@
 - Metode
 - Hvordan vi kom fram til ulike metoder for å evaluere gestures
 - Forskjellige faser
+- Refleksjon over prosessen
 #### Produktdokumentasjon
 - Vanlig dokumentasjon
 - Diagrammer osv
