@@ -50,3 +50,10 @@ Helgen og starten av uken var hovedsakelig dedikert til oppsettet av en generell
 
 **11. Februar**
 Et møte med veiledere ble holdt hvor fikk en liten introduksjon til konfigurering huddlys kameraer og tilbakemeldinger på strukturen vi hadde jobbet med. Under dette møte fikk vi også en pekepinn for videre fremgang, hvor vi fikk fortalt at hovedfokus i ummidelbar framtid burde sentrere seg rundt å implementere en robust sjekk for om en gestur blir holdt og lage noe funksjonalitet som skal bli kontrollert av dette. Programmet ble også videreutviklet for å enkelt støtte både bilde- og videofiler i tillegg til webkamera.
+
+**25. Mars**
+På dette punktet hadde vi en fungerende versjon av produktet, og det meste av det som ble jobbet av framover må sies å være "ekstra" funksjonalitet som ikke inngår nevneverdig i opprinnelig kravspek. Kort sagt var utviklingen rundt dette tidspunktet preget av mye forsøk og testing av ting vi syntes virket spennende. Eksempler på ting vi gjorde:
+- Teste ut gjenkjenning av dynamiske gesturer
+- Gestur for å sette verdier dynamisk, f.eks. brightness
+- Bruke en bezier kurve som interpolasjonsfunksjon for å smude ut zooming.
+- Styre volum inn/ut ved dynamisk bruk av gesturer 
